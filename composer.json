@@ -16,8 +16,7 @@
   "homepage": "https://www.numpower.org",
   "require": {
     "php": ">=8.2",
-    "ext-numpower": "0.5.2",
-    "ext-gd": "*"
+    "ext-numpower": "0.5.2"
   },
   "minimum-stability": "stable",
   "prefer-stable": true
